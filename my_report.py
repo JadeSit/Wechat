@@ -13,3 +13,5 @@ print('年龄：' + '\t' + age)
 print('学校：' + '\t' + university)
 print('*'*30)
 
+
+
